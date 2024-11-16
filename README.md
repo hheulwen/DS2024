@@ -11,5 +11,7 @@ USTH ICT 2024 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
+* Pham Ngoc Minh Chau - 22BI13063
+* Bui Nguyen Ngoc Huyen - 22BI13199
+* Do Thi Huong Tra - BA12-174
+* Cao Nhat Nam - 22BI13320
